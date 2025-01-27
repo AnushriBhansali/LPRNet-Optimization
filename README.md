@@ -70,5 +70,5 @@ Each section provides a detailed analysis and optimization summary to evaluate w
 - **Project Report**: A detailed report summarizing the project's objectives, optimization techniques, results, and conclusions.
 
 ## Results
-![LPRNet Diagram](images/Results.png)
+![LPRNet Diagram](Results.png)
 
